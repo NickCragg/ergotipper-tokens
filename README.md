@@ -65,6 +65,8 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 1465c9b9de602bd75f8f38df83118e2c8b1d5b2f5518514dd1438149053652a8 | DarkErdoge | 6 |
 | fcfca7654fb0da57ecf9a3f489bcbeb1d43b56dce7e73b352f7bc6f2561d2a1b | ErgOne | 8 |
 | f6fc7721184b59868d895e7463515b83abb467238f239809b6ef76717e444063 | 👽 | 0 |
+|
+ac992a1ca8494be17a29c79c9bc7f2aeacf75cf3826d62f95cc921cf463c3f35 | 💩 | 0 |
 ## Supported NFT list
 | Token ID | Token Name | Token decimals |
 | --- | --- | --- |
